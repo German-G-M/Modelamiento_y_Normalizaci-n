@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T22:20:13.332Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="4WIH7i6HT8XFOd9Dz-Dr" version="17.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-15T22:21:23.323Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="zEkexCRz_fHsy-QwhvXK" version="17.1.2" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="modelo_conceptual">
     <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -103,7 +103,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="vWOu0EK1ln1OtNl61qGr" name="1 FN">
+  <diagram id="vWOu0EK1ln1OtNl61qGr" name="Formas Normales">
     <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="qJ6Q8f8aIQQcrJBm6q3Y-0" />
